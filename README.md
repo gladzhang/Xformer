@@ -1,6 +1,6 @@
 # Xformer: Hybrid X-Shaped Transformer for Image Denoising
 
-Jiale Zhang, [Yulun Zhang](http://yulunzhang.com/), [Jinjin Gu](https://www.jasongt.com/), Jiahua Dong, [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), and [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ), "Xformer: Hybrid X-Shaped Transformer for Image Denoising", arXiv, 2023 
+Jiale Zhang, [Yulun Zhang](http://yulunzhang.com/), [Jinjin Gu](https://www.jasongt.com/), Jiahua Dong, [Linghe Kong](https://www.cs.sjtu.edu.cn/~linghe.kong/), and [Xiaokang Yang](https://scholar.google.com/citations?user=yDEavdMAAAAJ), "Xformer: Hybrid X-Shaped Transformer for Image Denoising", ICLR, 2024
 
 [[arXiv](https://arxiv.org/abs/2303.06440)]  [[pretrained models](https://drive.google.com/drive/folders/1Ui_X1JoC5jxgE6k_hK7AZ2qrLo2I_OsD?usp=sharing)]
 
@@ -222,16 +222,14 @@ We achieved state-of-the-art performance on Gaussian image denoising and real-wo
 
 ## 📎 Citation
 
-If you find the code helpful in your resarch or work, please cite the following paper(s).
+If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
-@article{zhang2023xformer,
+@inproceedings{zhang2024xformer,
       title={Xformer: Hybrid X-Shaped Transformer for Image Denoising}, 
       author={Jiale Zhang and Yulun Zhang and Jinjin Gu and Jiahua Dong and Linghe Kong and Xiaokang Yang},
-      year={2023},
-      eprint={2303.06440},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      booktitle={ICLR},
+      year={2024},
 }
 ```
 
